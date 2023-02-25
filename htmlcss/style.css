@@ -1,0 +1,14 @@
+h1 {
+  color: rgb(114, 148, 179);
+  background-color: rgb(161, 118, 118);
+  text-align: center;
+}
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgb(27, 24, 5);
+  color: aliceblue;
+}
+button {
+  color: rgb(48, 38, 8);
+  background-color: rgb(69, 11, 228);
+}
